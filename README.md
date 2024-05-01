@@ -11,4 +11,4 @@ To contribute to the success of a business by leveraging data analysis technique
 - Providing actionable insights and recommendations to drive strategic decision-making and support the supermarket's goals for growth, efficiency, and customer satisfaction.
 
 ## About the dataset: 
-The dataset reveals a superstore's sales from 2019 to 2020. The dataset has around 6000 rows and 21 columns. You can download the dataset [here](https://drive.google.com/drive/folders/1HDkNHNslI3rgCv9LZzGtxag8JvYzss-b)
+The dataset reveals a US superstore's sales from 2019 to 2020 (two years). The dataset has around 6000 rows and 21 columns. The dataset can be dowloaded [here](https://drive.google.com/drive/folders/1HDkNHNslI3rgCv9LZzGtxag8JvYzss-b)
