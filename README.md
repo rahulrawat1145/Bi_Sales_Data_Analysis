@@ -12,3 +12,9 @@ To contribute to the success of a business by leveraging data analysis technique
 
 ## About the dataset: 
 The dataset reveals a US superstore's sales from 2019 to 2020 (two years). The dataset has around 6000 rows and 21 columns. The dataset can be dowloaded [here](https://drive.google.com/drive/folders/1HDkNHNslI3rgCv9LZzGtxag8JvYzss-b)
+
+
+## RESULTS AND FINDINGS
+The analysis reveals that amongst sales category, top 3 sales are of office supplies, Technolocgy and Furniture. Office Supply, Technolocgy and Furniture contibutes 643.7 thousand dollars, 470 thousand dollars and 450 thousand dollars worth of sales generating nearly 75 thousand dollars, 90 thousand dollars and 10 thousand dollars in profit respectively.
+
+## The intereactive dashboard is available to download in the main repository.
