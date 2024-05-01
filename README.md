@@ -16,5 +16,10 @@ The dataset reveals a US superstore's sales from 2019 to 2020 (two years). The d
 
 ## RESULTS AND FINDINGS
 The analysis reveals that amongst sales category, top 3 sales are of office supplies, Technolocgy and Furniture. Office Supply, Technolocgy and Furniture contibutes 643.7 thousand dollars, 470 thousand dollars and 450 thousand dollars worth of sales generating nearly 75 thousand dollars, 90 thousand dollars and 10 thousand dollars in profit respectively.
+An example of the interactive dashboard is as under: 
+
+![Total office supply sales in US (all regions)](https://github.com/rrawat1145/Bi_Sales_Data_Analysis/blob/main/screenshot/sales.png?raw=true)
+
+![Total Technology sales in US in the eastern region](https://github.com/rrawat1145/Bi_Sales_Data_Analysis/blob/main/screenshot/tech%20in%20east.png?raw=true)
 
 ## The intereactive dashboard is available to download in the main repository.
